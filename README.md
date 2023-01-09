@@ -4,7 +4,7 @@
 
 Componentes personalizados incluídos en la librería:
 
-**<Button>**
+**\<Button\>**
   Propiedades:
   
   className: PropTypes.string,
