@@ -16,7 +16,7 @@ Componentes personalizados incluídos en la librería:
   colorHover: PropTypes.string,
   borderRadius: PropTypes.string,
   
-<ContainerFlex>
+**\<ContainerFlex\>**
   Propiedades:
   
   className: PropTypes.string,
@@ -30,7 +30,7 @@ Componentes personalizados incluídos en la librería:
   alignItems: PropTypes.oneOf([ 'center', 'flex-start', 'flex-end', 'stretch', 'baseline' ]),
   justifyContent: PropTypes.oneOf([ 'center', 'flex-start', 'flex-end', 'space-between', 'space-around', 'space-evenly' ])
   
-<MediaImg>
+**\<MediaImg\>**
   Propiedades:
   
   width: PropTypes.string,
@@ -40,7 +40,7 @@ Componentes personalizados incluídos en la librería:
   borderRadius: PropTypes.string,
   className: PropTypes.string,
   
-<Text>
+**\<Text\>**
   Propiedades:
   
   className: PropTypes.string,
